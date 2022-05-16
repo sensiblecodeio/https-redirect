@@ -1,6 +1,8 @@
 # Static binary to redirect HTTP to HTTPS
 
-# [Download Linux x64](https://github.com/sensiblecodeio/https-redirect/releases/download/v0.1/https-redirect)
+# [Download Linux x64](https://github.com/sensiblecodeio/https-redirect/releases)
+
+## Example usage for the first release
 
 ```
 $ curl -sSOL https://github.com/sensiblecodeio/https-redirect/releases/download/v0.1/https-redirect
